@@ -1,6 +1,6 @@
 /**
  * @link https://leetcode-cn.com/leetbook/read/array-and-string/conm7/
- * @description: 最长回文子串
+ * @description: 给你一个字符串 s，找到 s 中最长的回文子串。
  * 给你一个字符串 s，找到 s 中最长的回文子串。
  * 1 <= s.length <= 1000
  * s 仅由数字和英文字母（大写和/或小写）组成
