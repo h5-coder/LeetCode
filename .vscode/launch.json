@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Launch Program",
-            "program": "${workspaceFolder}/src/数组/合并区间.js",
+            "program": "${workspaceFolder}/src/string/最长回文子串.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
